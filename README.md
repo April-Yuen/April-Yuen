@@ -14,26 +14,8 @@ I'm April and I am a full-stack software engineer. I have a background in educat
 <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 
 ### Projects
-<table>
-  <tr>
-    <td valign="top">
-      <h3>CineFacts</h3>
-         ![Cinefacts](https://github.com/April-Yuen/April-Yuen/blob/main/GithubBanner.gif)
-    </td>
-    <td valign="top">
-      <h3>My stack: </h3>
-      <h6>📔&emsp;<a href="https://github.com/feschenko?tab=repositories&q=&type=&language=python">Python</a> ( Middle )</h6>
-      <h6>📗&emsp;<a href="https://github.com/feschenko?tab=repositories&q=&type=&language=c%23">C#</a> ( Junior )</h6>
-      <h6>📘&emsp;<a href="https://github.com/feschenko?tab=repositories&q=&type=&language=go">Golang</a> ( Intern )</h6>
-      </td>
-     <td valign="top">
-      <h3>New repositories: </h3>
-           <h6>⭐️&nbsp;&nbsp;&nbsp;0&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;4 – <a href='https://github.com/feschenko/DALL-E'>DALL-E</a></h6> 
-      <h6>⭐️&nbsp;&nbsp;&nbsp;0&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;0 – <a href='https://github.com/feschenko/StableViewSynthesis'>StableViewSynthesis</a></h6> 
-      <h6>⭐️&nbsp;&nbsp;&nbsp;15&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;44 – <a href='https://github.com/feschenko/voicy'>voicy</a></h6> 
-        </td>
-  </tr>
-</table>
+
+ ![Cinefacts](https://github.com/April-Yuen/April-Yuen/blob/main/CineFacts.gif)
 
 
 ![April's GitHub stats](https://github-readme-stats.vercel.app/api?username=April-Yuen&show_icons=true&theme=radical)
