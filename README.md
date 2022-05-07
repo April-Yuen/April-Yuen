@@ -15,6 +15,11 @@ I'm April and I am a full-stack software engineer. I have a background in educat
 
 ![April's GitHub stats](https://github-readme-stats.vercel.app/api?username=April-Yuen&show_icons=true&theme=radical)
 
+### Social Media
+[![Twitter Badge](https://img.shields.io/badge/-@maddhruv-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/aprilyou)](https://twitter.com/aprilyou) 
+[![Linkedin Badge](https://img.shields.io/badge/-aprilyuen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/april-yuen-12066120/)](https://www.linkedin.com/in/april-yuen-12066120/)
+[![Gmail Badge](https://img.shields.io/badge/-april.you@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:april.you@gmail.com)](mailto:april.you@gmail.com)
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
