@@ -15,7 +15,7 @@ I'm April and I am a full-stack software engineer. I have a background in educat
 
 ### Projects
 
- ![Cinefacts](https://github.com/April-Yuen/April-Yuen/blob/main/CineFacts.gif)
+ 
 
 
 ![April's GitHub stats](https://github-readme-stats.vercel.app/api?username=April-Yuen&show_icons=true&theme=radical)
