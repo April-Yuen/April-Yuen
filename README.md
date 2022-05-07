@@ -18,7 +18,7 @@ I'm April and I am a full-stack software engineer. I have a background in educat
   <tr>
     <td valign="top">
       <h3>CineFacts</h3>
-          ![CineFactsVideo](https://github.com/April-Yuen/April-Yuen/blob/main/CineFacts.gif)
+         ![Cinefacts](https://github.com/April-Yuen/April-Yuen/blob/main/GithubBanner.gif)
     </td>
     <td valign="top">
       <h3>My stack: </h3>
