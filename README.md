@@ -29,5 +29,4 @@ I am a full-stack software engineer with a background in education and a passion
 
 
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
--->
+
