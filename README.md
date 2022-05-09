@@ -1,5 +1,5 @@
 
-![AprilYuenBanner](https://github.com/April-Yuen/April-Yuen/blob/main/BlackModernBanner.gif) width = "600"
+![AprilYuenBanner](https://github.com/April-Yuen/April-Yuen/blob/main/BlackModernBanner.gif)
 
 ### About Me
 
