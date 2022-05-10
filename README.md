@@ -20,7 +20,9 @@ I am a full-stack software engineer with a background in education and a passion
 <table>
  <tbody>
    <tr>
-   <td><a href="#"><img src="https://github.com/April-Yuen/April-Yuen/blob/main/CinefactsRevised2.gif" width="350" /></td>
+   <td><a href="#"><img src="https://github.com/April-Yuen/April-Yuen/blob/main/CinefactsRevised2.gif" width="350" />
+    [<img src="https://img.shields.io/badge/Personal%20Site-website-red">](https://phenomenal-dragon-09bb3a.netlify.app/)
+    </td>
     <td><a href="#"><img src="https://github.com/April-Yuen/April-Yuen/blob/main/barcoderevised.gif" width = "350"/></td>
   
    </tr>
