@@ -1,6 +1,6 @@
 
 <!-- ![AprilYuenBanner](https://github.com/April-Yuen/April-Yuen/blob/main/BlackModernBanner.gif) -->
-<img align="center" src="https://github.com/April-Yuen/April-Yuen/blob/main/BlackModernBanner.gif" width="800" />
+<img align="center" src="https://github.com/April-Yuen/April-Yuen/blob/main/BlackModernBanner.gif" width="850" />
 
 ### About Me
 
