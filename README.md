@@ -17,7 +17,20 @@ I am a full-stack software engineer with a background in education and a passion
 ![CSS](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
 
 ### Projects
-<img src="https://github.com/April-Yuen/April-Yuen/blob/main/CineFactsRevised2.gif" width="350" />
+<table>
+ <tbody>
+   <tr>
+   <td><a href="https://efs0-cod3.github.io/tip-calc/"><img src="https://github.com/April-Yuen/April-Yuen/blob/main/CineFactsRevised2.gif" width="350" /></td>
+    <td><a href="https://countdowntimr.netlify.app/"><img src="https://github.com/efs0-cod3/efs0-cod3/blob/main/images/countDown.gif"/></td>
+  
+   </tr>
+     <tr>
+   <td><a href="https://efs0-cod3.github.io/Tra-Boo/"><img src="https://github.com/efs0-cod3/efs0-cod3/blob/main/images/crop.gif"/></td>
+     <td><a href="https://efs0-cod3.github.io/Airport_info/"><img heigth="100" src="https://github.com/efs0-cod3/efs0-cod3/blob/main/images/%20aviation.gif"/></td>
+   </tr>
+   </tbody>
+</table>
+<!-- <img src="https://github.com/April-Yuen/April-Yuen/blob/main/CineFactsRevised2.gif" width="350" /> -->
 
 
 ![April's GitHub stats](https://github-readme-stats.vercel.app/api?username=April-Yuen&show_icons=true&theme=radical)
