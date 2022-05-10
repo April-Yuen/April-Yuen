@@ -33,8 +33,16 @@ I am a full-stack software engineer with a background in education and a passion
   
    </tr>
      <tr>
-   <td><a href="#"><img src="https://github.com/April-Yuen/April-Yuen/blob/main/MarsRover.gif" width = "350"/></td>
-     <td><a href="#"><img src="https://github.com/April-Yuen/April-Yuen/blob/main/nasaapod.gif" width = "350"/></td>
+    <td>
+        <a href="#"><img src="https://github.com/April-Yuen/April-Yuen/blob/main/MarsRover.gif" width = "350"/><br>
+        <a href="#"><img align="center"src="https://img.shields.io/badge/%20Github-Repo-red">
+        <a href="#"><img align="center"src="https://img.shields.io/badge/%20W-Website-red">
+    </td>
+      <td>
+        <a href="#"><img src="https://github.com/April-Yuen/April-Yuen/blob/main/nasaapod.gif" width = "350"/><br>
+        <a href="#"><img align="center"src="https://img.shields.io/badge/%20Github-Repo-red">
+        <a href="#"><img align="center"src="https://img.shields.io/badge/%20W-Website-red">
+      </td>
    </tr>
    </tbody>
 </table>
