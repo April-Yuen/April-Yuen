@@ -49,7 +49,7 @@ I am a full-stack software engineer with a background in education and a passion
 <!-- <img src="https://github.com/April-Yuen/April-Yuen/blob/main/CineFactsRevised2.gif" width="350" /> -->
 
 
-![April's GitHub stats](https://github-readme-stats.vercel.app/api?username=April-Yuen&show_icons=true&theme=radical)
+![April's GitHub stats][(https://github-readme-stats.vercel.app/api?username=April-Yuen)](https://github.com/April-Yuen/github-readme-stats)
 
 ### How To Reach Me
 [![Twitter Badge](https://img.shields.io/badge/-@aprilyou-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/aprilyou)](https://twitter.com/aprilyou) 
