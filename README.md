@@ -21,7 +21,7 @@ I am a full-stack software engineer with a background in education and a passion
  <tbody>
    <tr>
    <td>
-       <a href="#"><img src="[https://github.com/April-Yuen/April-Yuen/blob/main/CinefactsRevised2.gif](https://github.com/April-Yuen/April-Yuen/blob/main/CinefactsRevised2.gif)" width="350" /><br>
+       <img src = "(https://github.com/April-Yuen/April-Yuen/blob/main/CinefactsRevised2.gif)" width = "350"/><br>
        <a href="#"><img align="center"src="https://img.shields.io/badge/%20Github-Repo-red">
        <a href="#"><img align="center"src="https://img.shields.io/badge/%20W-Website-red">
     </td>
