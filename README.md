@@ -22,7 +22,7 @@ I am a full-stack software engineer with a background in education and a passion
  <tbody>
    <tr>
    <td>
-       <a href="#"><img src="#" width="100%"/><br>
+       <a href="#"><img src="CinefactsRevised2.gif" width="100%"/><br>
        <a href="#"><img align="center"src="https://img.shields.io/badge/%20Github-Repo-red">
        <a href="#"><img align="center"src="https://img.shields.io/badge/%20W-Website-red">
     </td>
