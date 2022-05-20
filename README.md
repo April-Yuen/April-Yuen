@@ -16,6 +16,8 @@ I am a full-stack software engineer with a background in education and a passion
 <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 ![CSS](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
 
+<a href="#"><img src ="(https://github.com/April-Yuen/April-Yuen/blob/main/CinefactsRevised2.gif)" width = "350"/>
+
 ### Projects
 <table>
  <tbody>
