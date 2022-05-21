@@ -39,7 +39,7 @@ I am a full-stack software engineer with a background in education and a passion
       <h3 align="center">Barcode Virtual Bartender</h3>
         <br />
       <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">
-            <img src="ezbarcode.gif" width="100%"  alt="Rigley 2"/>
+            <img src="ezbarcode.gif" width="80%"  alt="Rigley 2"/>
         </a>
         <br />
         <p align="center">
