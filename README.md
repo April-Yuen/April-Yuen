@@ -16,6 +16,48 @@ I am a full-stack software engineer with a background in education and a passion
 <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 ![CSS](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
 
+<tr>
+    <td width="50%" valign="top">
+      <h3 align="center">CineFacts</h3>
+        <br />
+        <a target="_blank" href="#">
+            <img src="CinefactsRevised2.gif" width="100%" alt="Cinema App"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Javascript, Bootstrap, Sass, Node.js, & Express.js</strong> - Platform to help build momentous milestones along with your friends and family! Travelara makes Dream Trips a Reality!</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Barcode Virtual Bartender</h3>
+        <br />
+      <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">
+            <img src="ezbarcode.gif" width="100%"  alt="Rigley 2"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://barcoderevised.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Javascript & Phaser.js</strong> - The awaited sequel sees our Rigley friend jumping through firewalls "Flappy Bird" style.</p>
+    </td>
+  </tr>
+
+
+
+
 
 ### Projects
 <table>
