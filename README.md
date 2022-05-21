@@ -6,7 +6,7 @@
 
 I am a full-stack software engineer with a background in education and a passion for problem solving. Throughout my career I have had a knack for building new projects, being a team player, and thinking on my toes. 
 
-<img align="center" src="https://github.com/April-Yuen/April-Yuen/blob/main/BlackModernBanner.gif" width="850" />
+<img align="center" src="(https://github.com/April-Yuen/April-Yuen/blob/main/CinefactsRevised2.gif)" width="850" />
 ### Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
