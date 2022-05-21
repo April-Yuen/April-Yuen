@@ -96,12 +96,6 @@ I am a full-stack software engineer with a background in education and a passion
 
 
 
-  
-   
-
-
-![April's GitHub stats](https://github-readme-stats.vercel.app/api?username=April-Yuen&theme=radical_icons=true)
-
 ### How To Reach Me
 [![Twitter Badge](https://img.shields.io/badge/-@aprilyou-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/aprilyou)](https://twitter.com/aprilyou) 
 [![Linkedin Badge](https://img.shields.io/badge/-aprilyuen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/april-yuen-12066120/)](https://www.linkedin.com/in/april-yuen-12066120/)
