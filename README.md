@@ -22,7 +22,7 @@ I am a full-stack software engineer with a background in education and a passion
       <h3 align="center">CineFacts</h3>
         <br />
         <a target="_blank" href="#">
-            <img src="CinefactsRevised2.gif" width="50%" alt="Cinema App"/>
+            <img src="CinefactsRevised2.gif" width="100%" alt="Cinema App"/>
         </a>
         <br />
         <p align="center">
@@ -40,7 +40,7 @@ I am a full-stack software engineer with a background in education and a passion
       <h3 align="center">Barcode Virtual Bartender</h3>
         <br />
       <a target="_blank" href="barcoderevised.gif">
-            <img src="barcoderevised.gif" width="80%"  alt="Rigley 2"/>
+            <img src="barcoderevised.gif" width="100%"  alt="Rigley 2"/>
         </a>
         <br />
         <p align="center">
