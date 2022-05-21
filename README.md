@@ -17,7 +17,7 @@ I am a full-stack software engineer with a background in education and a passion
 ![CSS](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
 
 <tr>
-    <td width="50%" valign="top">
+    <td width="100%" valign="top">
       <h3 align="center">CineFacts</h3>
         <br />
         <a target="_blank" href="#">
@@ -35,11 +35,11 @@ I am a full-stack software engineer with a background in education and a passion
       </p>
         <p><strong></p>
     </td>
-    <td width="50%" valign="top">
+    <td width="100%" valign="top">
       <h3 align="center">Barcode Virtual Bartender</h3>
         <br />
       <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">
-            <img src="ezbarcode.gif" width="50%"  alt="Rigley 2"/>
+            <img src="ezbarcode.gif" width="100%"  alt="Rigley 2"/>
         </a>
         <br />
         <p align="center">
