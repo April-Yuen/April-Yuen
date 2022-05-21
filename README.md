@@ -55,8 +55,7 @@ I am a full-stack software engineer with a background in education and a passion
         <p><strong></strong> - </p>
     </td>
   </tr>
-    
-    <tr>
+   <tr>
     <td width="50%" valign="top">
       <h3 align="center">Pictures From Mars</h3>
       <br />
