@@ -16,6 +16,7 @@ I am a full-stack software engineer with a background in education and a passion
 <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 ![CSS](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
 
+<table bordercolor="#66b2b2">
 <tr>
     <td width="50%" valign="top">
       <h3 align="center">CineFacts</h3>
@@ -54,6 +55,7 @@ I am a full-stack software engineer with a background in education and a passion
         <p><strong></strong> - </p>
     </td>
   </tr>
+</table>
 
 
 
