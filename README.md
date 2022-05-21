@@ -60,8 +60,8 @@ I am a full-stack software engineer with a background in education and a passion
     <td width="50%" valign="top">
       <h3 align="center">Pictures From Mars</h3>
       <br />
-        <a target="_blank" href="https://shawncharles.com">
-          <img src="images/gif4.gif" width="100%" alt="Portfolio"/>
+        <a target="_blank" href="#">
+          <img src="MarsRover.gif" width="100%" alt="Mars Project"/>
         </a>
       <br />
         <p align="center">
@@ -72,13 +72,13 @@ I am a full-stack software engineer with a background in education and a passion
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
+        <p><strong></p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Matching Cards</h3>
         <br />
         <a target="_blank" href="https://poke-matchcards.netlify.app/">
-          <img src="images/gif3.gif" width="100%" alt="Matching Cards"/>
+          <img src="MarsRover.gif" width="100%" alt="Matching Cards"/>
         </a>
         <br />
         <p align="center">
