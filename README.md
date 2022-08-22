@@ -64,7 +64,7 @@ I am a full-stack software engineer with a background in education and a passion
         </a>
       <br />
         <p align="center">
-  <a href="#" target="_blank">
+  <a href="https://github.com/April-Yuen/StudentDatabase" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="https://teacher-notebook-database.herokuapp.com/" target="_blank">
