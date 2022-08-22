@@ -60,7 +60,7 @@ I am a full-stack software engineer with a background in education and a passion
       <h3 align="center">Teacher Notebook</h3>
       <br />
         <a target="_blank" href="#">
-          <img src="Teacher-notebook-gif.mov" width="100%" alt="Mars Project"/>
+          <img src="teacher-notebook-readme.gif" width="100%" alt="Mars Project"/>
         </a>
       <br />
         <p align="center">
