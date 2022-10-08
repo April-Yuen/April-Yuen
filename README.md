@@ -19,10 +19,10 @@ I am a full-stack software engineer with a background in education and a passion
 <table bordercolor="#66b2b2">
 <tr>
     <td width="50%" valign="top">
-      <h3 align="center">CineFacts</h3>
+      <h3 align="center">Ignite</h3>
         <br />
         <a target="_blank" href="#">
-            <img src="ignitegif.gif" width="100%" alt="Cinema App"/>
+            <img src="ignitegif.gif" width="100%" alt="Ignite App"/>
         </a>
         <br />
         <p align="center">
@@ -30,7 +30,7 @@ I am a full-stack software engineer with a background in education and a passion
   <a href="https://github.com/April-Yuen/movie_api" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="#" target="_blank">
+  <a href="https://ignite-production.up.railway.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
