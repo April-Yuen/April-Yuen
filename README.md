@@ -76,7 +76,7 @@ I am a full-stack software engineer with a background in education and a passion
     <td width="50%" valign="top">
       <h3 align="center">NASA Picture of the Day</h3>
         <br />
-        <a target="_blank" href="https://poke-matchcards.netlify.app/">
+        <a href="#" target="_blank">
           <img src="nasaapod.gif" width="100%" alt="Picures from NASA Satellites"/>
         </a>
         <br />
